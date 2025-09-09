@@ -18,7 +18,7 @@ Useful for monitoring website availability or testing connectivity.
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/yourusername/uptime-checker.git
+git clone https://github.com/erishbrylle/Website-Uptime-Checker
 cd uptime-checker
 ```
 ### 2. Create a websites.txt file
